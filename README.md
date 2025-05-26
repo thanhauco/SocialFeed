@@ -11,6 +11,7 @@ There are several ways of editing your application.
 **Use Lovable**
 
 Simply visit the [Lovable Project](https://lovable.dev/projects/5f17205d-957e-42d4-af03-ea4bf52912f5) and start prompting.
+App deployed: https://stream-and-share-ui.lovable.app/
 
 Changes made via Lovable will be committed automatically to this repo.
 
